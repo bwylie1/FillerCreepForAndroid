@@ -5,5 +5,5 @@
 
 
 public class TestClass {  
-    private void Integer myParameter;
+    private static Integer myParameter;
 }
