@@ -3,6 +3,7 @@
  * 
  */
 
-public class TestClass {
-    private static Integer myParameter;
+
+public class TestClass {  
+    private void Integer myParameter;
 }
